@@ -1,0 +1,37 @@
+table.projects {
+  tr {
+    cursor: pointer;
+    th {
+      font-size: 12px;
+    }
+    td {
+      p {
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+.cardstyle {
+  margin: 10px 30px 10px 0px;
+}
+
+.contentCard {
+  margin-left: 10px;
+}
+
+td {
+  padding: 0px 4px 4px 4px;
+}
+
+.reportSideH {
+  font-size: 1.8rem;
+}
+
+.dynamicValues {
+  background-color: lightGrey;
+}
+
+.totales {
+  background-color: paleturquoise;
+}
